@@ -5,6 +5,7 @@ import 'es6-shim';
 import 'es6-promise';
 import 'es7-reflect-metadata';
 import 'zone.js/dist/zone-microtask';
+import 'webcomponents.js';
 
 if ('production' === process.env.ENV) {
   // Production
